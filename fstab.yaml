@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p148704-e1512925.adobeaemcloud.com/bin/franklin.delivery/AEMXSC/RefDemoEDS/main"
+    url: "https://author-p148704-e1512925.adobeaemcloud.com/bin/franklin.delivery/mmeewis/aem-aep-personalisation-demo/main"
     type: "markup"
     suffix: ".html"
