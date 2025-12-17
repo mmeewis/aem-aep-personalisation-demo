@@ -172,12 +172,12 @@
       	"iframe",
       	"image",
       	"teaser",
+        "tutorial_teaser",
       	"text",
       	"title",
       	"video",
         "form",
-        "embed-adaptive-form",
-        "tutorial_teaser"
+        "embed-adaptive-form"
       ]
     }
   ]
