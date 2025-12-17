@@ -92,6 +92,11 @@
         "valueType": "string",
         "name": "pageCategory",
         "label": "Page Category"
+      },      
+      {
+        "component": "tab",
+        "label": "AEP",
+        "name": "tab-aep"
       }
     ]
   },
