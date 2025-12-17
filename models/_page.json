@@ -4,7 +4,7 @@
     "fields": [
       {
         "component": "tab",
-        "label": "Basic",
+        "label": "Basic stuff",
         "name": "tab-basic"
       },
       {
@@ -92,11 +92,6 @@
         "valueType": "string",
         "name": "pageCategory",
         "label": "Page Category"
-      },      
-      {
-        "component": "tab",
-        "label": "AEP",
-        "name": "tab-aep"
       }
     ]
   },
