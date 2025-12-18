@@ -10,6 +10,12 @@
       {
         "component": "text",
         "valueType": "string",
+        "name": "My Title",
+        "label": "My Title"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
         "name": "jcr:title",
         "label": "Title"
       },
